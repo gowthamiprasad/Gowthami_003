@@ -4,7 +4,7 @@ import java.io.PrintWriter;
 import java.io.StringWriter;
 
 /**
- * Created by psivareddy on 4/1/15.
+ * Created by Gowthami on 4/1/15.
  */
 public class ZeroLessThanZeroException extends RuntimeException {
 
