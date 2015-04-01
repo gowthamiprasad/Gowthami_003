@@ -1,8 +1,5 @@
 package com.comcast.interview.taxperson;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * Created by Gowthami on 4/1/15.
  */

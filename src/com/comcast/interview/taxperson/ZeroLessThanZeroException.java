@@ -6,7 +6,7 @@ import java.io.StringWriter;
 /**
  * Created by psivareddy on 4/1/15.
  */
-public class ZeroLessThanZeroException extends Exception {
+public class ZeroLessThanZeroException extends RuntimeException {
 
     public ZeroLessThanZeroException(String message){
         super(message);
